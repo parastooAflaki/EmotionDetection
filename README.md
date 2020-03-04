@@ -18,4 +18,5 @@ To build and train this model, you have gathered pictures of some volunteers in 
 | 0.076434  |  0.0.96000 |
 
 Model :
-<img src = 'final_model.png' >
+
+<img src = 'emotion_model.png' >
