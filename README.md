@@ -19,4 +19,4 @@ To build and train this model, you have gathered pictures of some volunteers in 
 
 Model :
 
-<img src = 'emotion_model.png' >
+<img src = 'emotionModel.png' >
