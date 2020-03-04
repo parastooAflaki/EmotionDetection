@@ -14,7 +14,7 @@ To build and train this model, you have gathered pictures of some volunteers in 
 ### Results :
 | Loss | Test Accuracy |
 |:---:|:---:|
-| 0.08027  |  0.96666 |
+| 0.076434  |  0.0.96000 |
 
 Model :
 <img src = 'final_model.png >
