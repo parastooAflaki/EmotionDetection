@@ -1,1 +1,20 @@
-# EmotionDetection
+## Emotion Tracking
+
+<<the first assignment of week 2, Convolution NNs , deeplearning.ai course in coursera: https://www.coursera.org/learn/convolutional-neural-networks >>
+
+* A nearby community health clinic is helping the local residents monitor their mental health.  
+* As part of their study, they are asking volunteers to record their emotions throughout the day.
+* To help the participants more easily track their emotions, you are asked to create an app that will classify their emotions based on some pictures that the volunteers will take of their facial expressions.
+* As a proof-of-concept, you first train your model to detect if someone's emotion is classified as "happy" or "not happy."
+
+To build and train this model, you have gathered pictures of some volunteers in a nearby neighborhood. The dataset is labeled.
+<img src="face_images.png" style="width:550px;height:250px;">
+
+----------------------------------------------------------------------
+### Results :
+| Loss | Test Accuracy |
+|:---:|:---:|
+| 0.08027  |  0.96666 |
+
+Model :
+<img src = 'final_model.png >
