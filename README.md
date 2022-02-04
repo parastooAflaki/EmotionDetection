@@ -1,7 +1,8 @@
 ## Emotion Tracking
 
 This project is a part of Convolutional Neural networks course from deeplearning.ai : 
-https://www.coursera.org/learn/convolutional-neural-networks >>
+
+https://www.coursera.org/learn/convolutional-neural-networks 
 
 Project Description:
 A nearby community health clinic is helping the local residents monitor their mental health.  
