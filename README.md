@@ -4,7 +4,8 @@ This project is a part of Convolutional Neural networks course from deeplearning
 
 https://www.coursera.org/learn/convolutional-neural-networks 
 
-Project Description:
+### Project Description:
+
 A nearby community health clinic is helping the local residents monitor their mental health.  
 
 As part of their study, they are asking volunteers to record their emotions throughout the day.
